@@ -1,0 +1,17 @@
+[2024-05-01 14:47:20] [LOG] جارِ إنشاء نسخة إحتياطية
+[2024-05-01 14:47:20] [LOG] عثر عليه3661الملفات للنسخ الإحتياطي.
+[2024-05-01 14:47:24] [ERROR] حصل خطأ قبل إيقاف الطلب (ولكن لم يتم تسجيله لإستعادة التسجيل)
+[2024-05-01 14:47:24] [ERROR] رسالة خطأ:filesize(): stat failed for C:\xampp\htdocs\Alnuweiser\wp-content\backup-migration\backups\C:\xampp\htdocs\Alnuweiser\wp-content\backup-migration\backups/BM_2024-05-01_14_47_17_ONXcfM9b2zh4Himk.zip
+[2024-05-01 14:47:24] [ERROR] خطأ ملف/سطر:C:\xampp\htdocs\Alnuweiser\wp-content\plugins\backup-backup\includes\zipper\src\zip.php|706
+[2024-05-01 14:47:24] [ERROR] معالج الأخطاء: ajax#01|2
+[2024-05-01 14:47:28] [ERROR] حصل خطأ قبل إيقاف الطلب (ولكن لم يتم تسجيله لإستعادة التسجيل)
+[2024-05-01 14:47:28] [ERROR] رسالة خطأ:filesize(): stat failed for C:\xampp\htdocs\Alnuweiser\wp-content\backup-migration\backups\C:\xampp\htdocs\Alnuweiser\wp-content\backup-migration\backups/BM_2024-05-01_14_47_17_ONXcfM9b2zh4Himk.zip
+[2024-05-01 14:47:28] [ERROR] خطأ ملف/سطر:C:\xampp\htdocs\Alnuweiser\wp-content\plugins\backup-backup\includes\zipper\src\zip.php|706
+[2024-05-01 14:47:28] [ERROR] معالج الأخطاء: ajax#01|2
+[2024-05-01 14:47:30] [ERROR] حصل خطأ قبل إيقاف الطلب (ولكن لم يتم تسجيله لإستعادة التسجيل)
+[2024-05-01 14:47:30] [ERROR] رسالة خطأ:filesize(): stat failed for C:\xampp\htdocs\Alnuweiser\wp-content\backup-migration\backups\C:\xampp\htdocs\Alnuweiser\wp-content\backup-migration\backups/BM_2024-05-01_14_47_17_ONXcfM9b2zh4Himk.zip
+[2024-05-01 14:47:30] [ERROR] خطأ ملف/سطر:C:\xampp\htdocs\Alnuweiser\wp-content\plugins\backup-backup\includes\zipper\src\zip.php|706
+[2024-05-01 14:47:30] [ERROR] معالج الأخطاء: ajax#01|2
+[2024-05-01 14:47:34] [LOG] تم إنشاء نسخة إحتياطية جديدة و إسمها:BM_2024-05-01_14_47_17_ONXcfM9b2zh4Himk.zip
+[2024-05-01 14:47:34] [LOG] Process (backup) finished successfully via ajax.php
+[2024-05-01 15:07:13] [LOG] تم إلغاء تنشيط الملف المساعد

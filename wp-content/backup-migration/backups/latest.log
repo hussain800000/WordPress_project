@@ -1,0 +1,126 @@
+[WARN] [2024-05-01 14:47:17] تم تعطيل PHP CLI يدويًا، وسيحذف المكون الإضافي جميع خطوات PHP CLI.
+[WARN] [2024-05-01 14:47:17] لا يمكن تنفيذ ملف PHP CLI لسبب غير معروف.
+[STEP] [2024-05-01 14:47:17] جارِ تهيئة النسخ الإحتياطي...
+[INFO] [2024-05-01 14:47:17] نسخة النسخ الإحتياطي و الترحيل:1.4.5
+[INFO] [2024-05-01 14:47:17] الموقع الذي سيتم نسخة إحتياطياً:http://localhost/Alnuweiser
+[INFO] [2024-05-01 14:47:17] اٍصدار PHP:8.0.30
+[INFO] [2024-05-01 14:47:17] نسخة WP: 6.5.2
+[INFO] [2024-05-01 14:47:17] نسخة MySQL: 10.4.32
+[INFO] [2024-05-01 14:47:17] الطول الأقصى لـ MySQL: 1048576
+[INFO] [2024-05-01 14:47:17] خادم الويب:Apache/2.4.58 (Win64) OpenSSL/3.1.3 PHP/8.0.30
+[INFO] [2024-05-01 14:47:17] الحد الأقصى للتنفيذ (بالثواني):120
+[INFO] [2024-05-01 14:47:17] حد الذاكرة (الخادم): 512M
+[INFO] [2024-05-01 14:47:17] حد الذاكرة (wp-config): 40M
+[INFO] [2024-05-01 14:47:17] حد الذاكرة (مسؤول wp-config): 512M
+[INFO] [2024-05-01 14:47:17] أقصى عدد للصفوف لكل استعلام (هذا الموقع):2000
+[INFO] [2024-05-01 14:47:17] جارِ التأكد ما إذا كان دليل النسخ الإحتياطي قابلاً للكتابة...
+[INFO] [2024-05-01 14:47:17] جاري تهيئة معالج الخطأ المخصص
+[SUCCESS] [2024-05-01 14:47:17] نعم إنها قابلة للكتابة...
+[STEP] [2024-05-01 14:47:17] جارِ فحص الملفات...
+[WARN] [2024-05-01 14:47:18] إزالة الملف من النسخة الإحتياطية (بسبب قواعد المسار):C:\xampp\htdocs\Alnuweiser\wp-content\backup-migration-config.php
+[INFO] [2024-05-01 14:47:18] الحجم الإجمالي للملفات المستبعدة: 2171 بايت
+[VERBOSE] [2024-05-01 14:47:18] Total size of excluded files (bytes): 2171
+[STEP] [2024-05-01 14:47:18] التحقق من المساحة الخالية، جارِ الحجز...
+[INFO] [2024-05-01 14:47:18] يتطلب على الأقل193510231بايت. [184.55 MB]
+[INFO] [2024-05-01 14:47:18] تم تعطيل وظيفة المساحة الخالية على القرص من قِبَل الاستضافة.
+[INFO] [2024-05-01 14:47:18] إستخدام ملف وهمي للتحقق من المساحة الخالية (قد يستغرق الأمر بعض الوقت).
+[SUCCESS] [2024-05-01 14:47:20] تم التأكيد، هناك مساحة أكثر من كافية، تم التحقق منها:193510231بايت
+[INFO] [2024-05-01 14:47:20] تم المسح - تم العثور على3661ملفات...
+[SUCCESS] [2024-05-01 14:47:20] تمت تهيئة النسخ الإحتياطي...
+[STEP] [2024-05-01 14:47:20] جاري تهيئة نظام الأرشفة...
+[SUCCESS] [2024-05-01 14:47:20] تمت تهيئة نظام الأرشيف...
+[STEP] [2024-05-01 14:47:21] يتم تحضير خريطة الملفات...
+[SUCCESS] [2024-05-01 14:47:21] تم تجهيز الملفات.
+[INFO] [2024-05-01 14:47:21] بدء عملية الضغط...
+[STEP] [2024-05-01 14:47:21] حساب الذاكرة الذكية...
+[INFO] [2024-05-01 14:47:21] يوجد 512 ميغابايت من الذاكرة للإستخدام
+[INFO] [2024-05-01 14:47:21] حد ذاكرة WordPress: 512 ميغابايت
+[SUCCESS] [2024-05-01 14:47:21] تعيين الحد الآمن لـ 115 ميغابايت
+[INFO] [2024-05-01 14:47:21] ZipArchive is available this process should use ZipArchive
+[INFO] [2024-05-01 14:47:21] الإعداد القديم: إستخدام الوحدات النمطية الإفتراضية بناءً على خادم المستخدم
+[STEP] [2024-05-01 14:47:21] عمل نسخة احتياطية لقاعدة البيانات (باستخدام محرك v3، يتطلب الإصدار 1.2.2 على الأقل لاستعادته)
+[INFO] [2024-05-01 14:47:21] تكرار قاعدة البيانات...
+[INFO] [2024-05-01 14:47:21] Memory usage after initialization: 67.90 MB
+[VERBOSE] [2024-05-01 14:47:21] Exporting database via zip.php
+[INFO] [2024-05-01 14:47:21] Scan found 23 tables (2074 rows), estimated total size: 20.17 MB.
+[INFO] [2024-05-01 14:47:21] Memory usage after getting table names: 67.91 MB 
+[INFO] [2024-05-01 14:47:21] Getting table recipes...
+[INFO] [2024-05-01 14:47:21] Table recipes have been exported.
+[INFO] [2024-05-01 14:47:21] Memory usage after loading recipes: 67.93 MB 
+[INFO] [2024-05-01 14:47:21] Saving recipes...
+[INFO] [2024-05-01 14:47:21] Recipes saved.
+[INFO] [2024-05-01 14:47:21] Memory usage after recipe off-load: 67.92 MB
+[INFO] [2024-05-01 14:47:21] Exporting table data...
+[STEP] [2024-05-01 14:47:21] Getting data of table: wp_actionscheduler_actions (1/23, 0.13 MB)
+[SUCCESS] [2024-05-01 14:47:21] Table export for: wp_actionscheduler_actions finished (0.00256s)
+[STEP] [2024-05-01 14:47:21] Getting data of table: wp_actionscheduler_claims (2/23, 0.03 MB)
+[INFO] [2024-05-01 14:47:21] Table wp_actionscheduler_claims is empty, saving only recipe.
+[STEP] [2024-05-01 14:47:21] Getting data of table: wp_actionscheduler_groups (3/23, 0.03 MB)
+[SUCCESS] [2024-05-01 14:47:21] Table export for: wp_actionscheduler_groups finished (0.00628s)
+[STEP] [2024-05-01 14:47:21] Getting data of table: wp_actionscheduler_logs (4/23, 0.05 MB)
+[SUCCESS] [2024-05-01 14:47:21] Table export for: wp_actionscheduler_logs finished (0.00224s)
+[STEP] [2024-05-01 14:47:21] Getting data of table: wp_commentmeta (5/23, 0.05 MB)
+[INFO] [2024-05-01 14:47:21] Table wp_commentmeta is empty, saving only recipe.
+[STEP] [2024-05-01 14:47:21] Getting data of table: wp_comments (6/23, 0.09 MB)
+[SUCCESS] [2024-05-01 14:47:21] Table export for: wp_comments finished (0.00183s)
+[STEP] [2024-05-01 14:47:21] Getting data of table: wp_e_events (7/23, 0.03 MB)
+[SUCCESS] [2024-05-01 14:47:21] Table export for: wp_e_events finished (0.00168s)
+[STEP] [2024-05-01 14:47:21] Getting data of table: wp_links (8/23, 0.03 MB)
+[INFO] [2024-05-01 14:47:21] Table wp_links is empty, saving only recipe.
+[STEP] [2024-05-01 14:47:21] Getting data of table: wp_litespeed_url (9/23, 0.05 MB)
+[INFO] [2024-05-01 14:47:21] Table wp_litespeed_url is empty, saving only recipe.
+[STEP] [2024-05-01 14:47:21] Getting data of table: wp_litespeed_url_file (10/23, 0.09 MB)
+[INFO] [2024-05-01 14:47:21] Table wp_litespeed_url_file is empty, saving only recipe.
+[STEP] [2024-05-01 14:47:21] Getting data of table: wp_options (11/23, 10.13 MB)
+[SUCCESS] [2024-05-01 14:47:21] Table export for: wp_options finished (0.23763s)
+[STEP] [2024-05-01 14:47:21] Getting data of table: wp_postmeta (12/23, 6.39 MB)
+[SUCCESS] [2024-05-01 14:47:21] Table export for: wp_postmeta finished (0.12363s)
+[STEP] [2024-05-01 14:47:21] Getting data of table: wp_posts (13/23, 2.52 MB)
+[SUCCESS] [2024-05-01 14:47:21] Table export for: wp_posts finished (0.06268s)
+[STEP] [2024-05-01 14:47:21] Getting data of table: wp_term_relationships (14/23, 0.03 MB)
+[SUCCESS] [2024-05-01 14:47:21] Table export for: wp_term_relationships finished (0.00199s)
+[STEP] [2024-05-01 14:47:21] Getting data of table: wp_term_taxonomy (15/23, 0.05 MB)
+[SUCCESS] [2024-05-01 14:47:21] Table export for: wp_term_taxonomy finished (0.00204s)
+[STEP] [2024-05-01 14:47:21] Getting data of table: wp_termmeta (16/23, 0.05 MB)
+[SUCCESS] [2024-05-01 14:47:21] Table export for: wp_termmeta finished (0.00237s)
+[STEP] [2024-05-01 14:47:21] Getting data of table: wp_terms (17/23, 0.05 MB)
+[SUCCESS] [2024-05-01 14:47:21] Table export for: wp_terms finished (0.04174s)
+[STEP] [2024-05-01 14:47:21] Getting data of table: wp_usermeta (18/23, 0.05 MB)
+[SUCCESS] [2024-05-01 14:47:21] Table export for: wp_usermeta finished (0.00328s)
+[STEP] [2024-05-01 14:47:21] Getting data of table: wp_users (19/23, 0.06 MB)
+[SUCCESS] [2024-05-01 14:47:21] Table export for: wp_users finished (0.00174s)
+[STEP] [2024-05-01 14:47:21] Getting data of table: wp_wpforms_logs (20/23, 0.02 MB)
+[INFO] [2024-05-01 14:47:21] Table wp_wpforms_logs is empty, saving only recipe.
+[STEP] [2024-05-01 14:47:21] Getting data of table: wp_wpforms_payment_meta (21/23, 0.06 MB)
+[INFO] [2024-05-01 14:47:21] Table wp_wpforms_payment_meta is empty, saving only recipe.
+[STEP] [2024-05-01 14:47:21] Getting data of table: wp_wpforms_payments (22/23, 0.16 MB)
+[INFO] [2024-05-01 14:47:21] Table wp_wpforms_payments is empty, saving only recipe.
+[STEP] [2024-05-01 14:47:21] Getting data of table: wp_wpforms_tasks_meta (23/23, 0.02 MB)
+[SUCCESS] [2024-05-01 14:47:21] Table export for: wp_wpforms_tasks_meta finished (0.00195s)
+[INFO] [2024-05-01 14:47:21] Table data exported.
+[INFO] [2024-05-01 14:47:21] Memory usage after data export: 67.90 MB
+[INFO] [2024-05-01 14:47:21] Entire process took: 0.5778 s
+[SUCCESS] [2024-05-01 14:47:21] إنتهي النسخ الإحتياطي لقاعدة البيانات
+[STEP] [2024-05-01 14:47:21] صنع الأرشيف
+[INFO] [2024-05-01 14:47:21] جارِ الضغط...
+[WARN] [2024-05-01 14:47:21] سيتم تشغيل النسخ الإحتياطي كطلب فردي، قد يكون غير مستقر...
+[INFO] [2024-05-01 14:47:21] Using ZipArchive extension for this backup process.
+[STEP] [2024-05-01 14:47:21] إضافة ملف (ملفات) قاعدة البيانات SQL إلى ملف النسخ الاحتياطي.
+[VERBOSE] [2024-05-01 14:47:21] Database files in total found: 23
+[SUCCESS] [2024-05-01 14:47:22] تمت إضافة قاعدة البيانات إلى النسخة الاحتياطية بنجاح.
+[STEP] [2024-05-01 14:47:22] جارٍ إجراء النسخ الاحتياطي لملفات الموقع...
+[INFO] [2024-05-01 14:47:22] قطع تحتوي على200ملفات.
+[INFO] [2024-05-01 14:47:24] الحدث الرئيسي:1000/3661
+[INFO] [2024-05-01 14:47:28] الحدث الرئيسي:2000/3661
+[INFO] [2024-05-01 14:47:30] الحدث الرئيسي:3000/3661
+[INFO] [2024-05-01 14:47:33] الحدث الرئيسي:3661/3661
+[SUCCESS] [2024-05-01 14:47:33] مضغوطة3661ملفات
+[INFO] [2024-05-01 14:47:33] أرشفة3661أخذت الملفات:12.29s
+[STEP] [2024-05-01 14:47:33] جارِ إنهاء النسخ الإحتياطي
+[INFO] [2024-05-01 14:47:33] جاري توليد ملف البيان وحفظ سجل الحية الحالي...
+[INFO] [2024-05-01 14:47:34] جارِ إضافة بيان...
+[SUCCESS] [2024-05-01 14:47:34] تمت إضافة ملف البيان والسجلات إلى النسخ الاحتياطي. تمت إزالة الملفات المؤقتة.
+[STEP] [2024-05-01 14:47:34] إغلاف الملفات و الأرشيفات
+[SUCCESS] [2024-05-01 14:47:34] انتهى التنظيف، اكتمل النسخ الاحتياطي.
+[SUCCESS] [2024-05-01 14:47:34] تم إنشاء نسخة إحتياطية جديدة و إسمها:BM_2024-05-01_14_47_17_ONXcfM9b2zh4Himk.zip
+[END-CODE] [2024-05-01 14:47:34] #001
